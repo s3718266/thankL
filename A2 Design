@@ -1,0 +1,36 @@
+Previous description: 
+FuelIt will be a website that compares all fuel prices from your chosen location to find the cheapest rate from most major fuel 
+companies such as Shell, BP and 7 Eleven. This will allow drivers across New South Wales to save money by detecting prices around 
+their area according to fuel types. Users will be selecting their fuel type then our website will analyse fuel price data through 
+the API plug in finding the best possible fuel price from multiple fuel stations.
+
+FuelIt will be able to generate and pull fuel prices from the API plug in and display it on a map through using a Google Maps plug in. 
+It will also contain a search function in which the user can select what company and fuel type the drivers want. Location filtering 
+will also be one of the major functions involved, drivers will be able to filter the distance from a current or certain location and 
+results will be generated accordingly. Once the destination is selected, distance from the user to their chosen location will also appear. 
+To further extend this website, an application for iOS may be created, to enable more mobility for users who may not always have access 
+to a computer when they are in desperate need for fuel. For more money conscious users, a fuel trend graph may be implemented to allow 
+these individuals to track the patterns in fuel pricing and fill up when they believe it is the most cost-effective period, thus being 
+an extended feature.
+
+
+
+Unambiguously demonstrates the expected outcomes of the specified Minimum Viable feature in a professional manner. 
+
+Fuel prices:
+
+
+
+Map:
+
+
+
+Search Bar:
+
+
+
+Location (Filtering):
+
+
+
+Distance:
